@@ -1,4 +1,4 @@
-# 🚀 Snaket Rannore
+# 🚀 Sanket Rannore
 
 ![React JS](https://img.shields.io/badge/React%20JS-Expert-purple?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React%20Native-Expert-yellow?style=for-the-badge&logo=react)
