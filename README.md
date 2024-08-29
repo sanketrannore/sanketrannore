@@ -16,7 +16,7 @@
 ## About Me
 Greetings! I'm Sanket Rannore, a web wizard from Bangalore with a knack for creating captivating digital experiences. With expertise in ReactJS and React Native, I'm on a mission to blend code and creativity seamlessly. When I'm not crafting pixel-perfect UIs, you'll find me on the football field or exploring new destinations, drawing inspiration for my next masterpiece. Let's embark on a journey to redefine the digital landscape together! 🌟
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=react)](https://sanket-rannore.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heysanketrannore) [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/heysanketrannore)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=react)](https://sanketprofile.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanket-rannore-05a78b146/)
 
 ## Professional Odyssey
 ### 🌟 PortDev India - Software Sorcerer
@@ -24,7 +24,7 @@ Greetings! I'm Sanket Rannore, a web wizard from Bangalore with a knack for crea
 - Unleashed the potential of RESTful APIs and wielded Redux and Redux Toolkit for state sorcery.
 - Fueled by a passion for performance, I harnessed the magic of React components and Material UI to create digital wonders.
 
-### 🔮 PortDev India - Software Apprentice (Intern)
+### 🔮 PortDev India - Software developer
 - Embarked on an epic quest into the realms of HTML, CSS, JavaScript, React, and Node.js.
 - Forged interactive artifacts with ReactJS and conjured RESTful APIs with Node.js sorcery.
 - Enchanted applications found refuge on Heroku and Netlify, enchanting users with their responsiveness and accessibility.
